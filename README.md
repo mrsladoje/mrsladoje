@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: # THERE ARE 2 GROUPS OF SLOTH IN THE WORLD
+- ⚡ Fun fact: THERE ARE 2 GROUPS OF SLOTH IN THE WORLD
 
 Different sloth groups can be easily identified by the number of long, curved claws on their forelimbs. The two-toed sloths, as the name suggests, have two claws on their front limbs, while the three-toed sloths have three claws on all four limbs. The two-toed sloths are also slightly larger than their three-toed counterparts, and both fall under different taxonomic Family. Altogether, there are six sloth species that are found in the Americas, mainly in the tropical rainforests of Central and South America.
  - Hoffman’s two-toed sloth (Choloepus hoffmanni)
