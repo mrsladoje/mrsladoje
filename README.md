@@ -9,6 +9,7 @@ Different sloth groups can be easily identified by the number of long, curved cl
  - Maned three-toed sloth (Bradypus torquatus)
  - Brown throated sloth (Bradypus variegatus)
  - Pale-throated sloth (Bradypus tridactylus)
+
 At present, 4 sloth species are listed as least concern on the IUCN Red List of threatened species. The maned three-toed sloth is vulnerable, while the pygmy three-toed sloth is critically endangered and the sloth species at greatest risk of extinction.
 <!--
 **mrsladoje/mrsladoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
