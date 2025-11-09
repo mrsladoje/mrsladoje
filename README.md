@@ -93,8 +93,9 @@ An elegant TSP solution using genetic algorithm. Coded in Python.
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&logo=devops&logoColor=white)
+![Claude Code](https://img.shields.io/badge/🤖_Claude-Code-D97757?style=flat-square)
 
-**Specialties:** System Architecture • System Optimization • Best-practice Spring • Neobrutalistic Design
+**Specialties:** System Architecture • System Optimization • Best-practice Spring • Neobrutalistic Design • Agentic Coding
 
 &nbsp;
 
