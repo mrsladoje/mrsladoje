@@ -6,7 +6,7 @@
 
 😎 Software Engineer from Novi Sad, Serbia | Building systems that matter
 
-`React with Tailwind`  `Spring Boot`  `Spring Security`  `KV Database Internals`  `Media Transparency`
+`RAG` `ML` `Spring Boot`  `Spring Security`  `KV Database Internals`  `Media Transparency` `React with Tailwind`
 
 🌍 Fluent in English and Greek, semi-fluent in German, and native in South Slavic languages.
 
@@ -20,7 +20,6 @@
 ## 🚀 Projects
 
 <table style="border-radius: 10px; overflow: hidden;">
-<tr>
 <td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
 
 ### 🐕 [HundDB](https://github.com/mrsladoje/HundDB)
@@ -41,10 +40,10 @@ High performance LSM-tree database built from scratch in Go. Complete with WAL, 
 <tr>
 <td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
 
-### 🛠️ [2valves](https://github.com/mrsladoje/2valves)
-Parallel media scraper using Intel TBB that pumps truth from two realities — comparing regime vs. independent Serbian media coverage.
+### 🪑 [Interia](https://github.com/deepgrad/epiplar.io)
+Transform any room with AI-powered 3D reconstruction and intelligent furniture replacement.
 
-`C++` `Flask` `Svelte` &nbsp;[📺 Demo](https://www.youtube.com/watch?v=4mTsmEurYD4)
+`DA3` `Diffusion` `YoloV8` &nbsp;[📺 Demo](https://www.youtube.com/watch?v=hBA3fvoU_DI)
 
 </td>
 <td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
@@ -67,10 +66,10 @@ Checkers bot powered by Minimax with alpha-beta pruning.
 </td>
 <td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
 
-### 🧬 [Genetic Travelling Salesman](https://github.com/mrsladoje/genetic-travelling-salesman)
-An elegant TSP solution using genetic algorithm. Coded in Python.
+### 🛠️ [2valves](https://github.com/mrsladoje/2valves)
+Parallel media scraper using Intel TBB that pumps truth from two realities — comparing regime vs. independent Serbian media coverage.
 
-`Python` `Evolutionary Algorithms`
+`C++` `Flask` `Svelte` &nbsp;[📺 Demo](https://www.youtube.com/watch?v=4mTsmEurYD4)
 
 </td>
 </tr>
