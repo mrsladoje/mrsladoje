@@ -58,6 +58,24 @@ Interactive maze game with Prim-based labyrinth generation, ANSI-optimized rende
 <tr>
 <td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
 
+### 👁 [Vid2sim](https://github.com/Vector-Space-Moggers/vid2sim)
+🏆 **1st Place @ DragonHack 2026** – First in the world video to 3d physics playground pipeline.
+
+`Computer Vision` `Stable-Fast-3D` &nbsp;[📺 Demo](https://www.youtube.com/watch?v=7ID7KJoDnME)
+
+</td>
+<td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
+
+### 🖨️ [Apollo](https://github.com/mrsladoje/apollo)
+A physics-grounded, agent-driven **digital twin** for HP Metal Jet S100 3D printer.
+
+`PINN` `degradation-modelling` &nbsp;[📺 Demo](https://www.youtube.com/watch?v=7_xYjXKY2TQ)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
+
 ### ⚪⚫ [CheckersBot](https://github.com/mrsladoje/CheckersBot)
 Checkers bot powered by Minimax with alpha-beta pruning.
 
