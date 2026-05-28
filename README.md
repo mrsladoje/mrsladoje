@@ -41,7 +41,7 @@ High performance LSM-tree database built from scratch in Go. Complete with WAL, 
 <td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
 
 ### 🪑 [Interia](https://github.com/deepgrad/epiplar.io)
-Transform any room with AI-powered 3D reconstruction and intelligent furniture replacement.
+🏆 **1st Place + 10k grant @ Garaza 2025** – Transform any room with AI-powered 3D reconstruction and intelligent furniture replacement.
 
 `DA3` `Diffusion` `YoloV8` &nbsp;[📺 Demo](https://www.youtube.com/watch?v=hBA3fvoU_DI)
 
