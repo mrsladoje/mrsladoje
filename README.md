@@ -23,12 +23,10 @@
 
 <a href="https://github.com/mrsladoje/sweet-search"><img align="right" width="50%" src="https://raw.githubusercontent.com/mrsladoje/sweet-search/main/assets/sweet-search-banner-pixelated.svg" alt="sweet-search banner" /></a>
 
-### 🍬 [sweet-search](https://github.com/mrsladoje/sweet-search)
+### 🍬 [sweet-search](https://github.com/mrsladoje/sweet-search) <a href="https://github.com/mrsladoje/sweet-search/stargazers"><img align="right" src="https://img.shields.io/github/stars/mrsladoje/sweet-search?style=social" alt="GitHub stars" /></a>
 Local code search for AI coding agents.
 
 `Hybrid search` `ColBERT rerank` `Custom ANN` `GPU kernels` `Code graph` `Live indexing`
-
-<a href="https://github.com/mrsladoje/sweet-search/stargazers"><img align="right" src="https://img.shields.io/github/stars/mrsladoje/sweet-search?style=social" alt="GitHub stars" /></a>[📦 npm](https://www.npmjs.com/package/sweet-search)
 
 </td>
 </tr>
