@@ -84,24 +84,6 @@ A physics-grounded, agent-driven **digital twin** for HP Metal Jet S100 3D print
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
-
-### ⚪⚫ [CheckersBot](https://github.com/mrsladoje/CheckersBot)
-Checkers bot powered by Minimax with alpha-beta pruning.
-
-`Python` `PyGame`
-
-</td>
-<td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 10px;">
-
-### 🛠️ [2valves](https://github.com/mrsladoje/2valves)
-Parallel media scraper using Intel TBB that pumps truth from two realities — comparing regime vs. independent Serbian media coverage.
-
-`C++` `Flask` `Svelte` &nbsp;[📺 Demo](https://www.youtube.com/watch?v=4mTsmEurYD4)
-
-</td>
-</tr>
 </table>
 
 &nbsp;
