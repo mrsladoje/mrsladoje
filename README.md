@@ -24,9 +24,14 @@
 ### 🍬 [sweet-search](https://github.com/mrsladoje/sweet-search)
 <a href="https://github.com/mrsladoje/sweet-search"><img src="https://raw.githubusercontent.com/mrsladoje/sweet-search/main/assets/sweet-search-banner-pixelated.svg" alt="sweet-search banner" width="100%" /></a>
 
-Local code search for AI coding agents: six fast, purpose-built tools for *Claude Code*, *Codex* & friends, so agents stop reaching for grep + Read by reflex. **5–33% cheaper agent runs** across 200 real engineering tasks with the same solve rate. GPU-accelerated index that keeps itself fresh as you edit, and 100% local: no API keys, no cloud, no Docker.
+**Coding agents search your repo with grep and Read by reflex. sweet-search gives them six local search tools that find the right code first.**
 
-`Rust` `WebAssembly` `Node.js` `CatBoost` `tree-sitter` `MCP` &nbsp;[📦 npm](https://www.npmjs.com/package/sweet-search) &nbsp;[![GitHub stars](https://img.shields.io/github/stars/mrsladoje/sweet-search?style=social)](https://github.com/mrsladoje/sweet-search/stargazers)
+💰 **5–33% cheaper agent runs** on 200 real SWE-rebench tasks, with no drop in solve rate (Claude Code, Codex, opencode)<br>
+🏆 **State-of-the-art retrieval:** SOTA on M2CRB, zero-shot SOTA on CoSQA<br>
+⚡ **Beats the specialists:** grep 2× faster than ripgrep · vector search 1.5–4.5× faster than FAISS, USearch & hnswlib<br>
+🔒 **100% local:** own attention kernels on Metal, CUDA & the Apple Neural Engine · no API keys, no cloud
+
+`Hybrid search` `ColBERT rerank` `Custom ANN` `GPU kernels` `Code graph` `Live indexing` &nbsp;[📦 npm](https://www.npmjs.com/package/sweet-search) &nbsp;[![GitHub stars](https://img.shields.io/github/stars/mrsladoje/sweet-search?style=social)](https://github.com/mrsladoje/sweet-search/stargazers)
 
 </td>
 </tr>
