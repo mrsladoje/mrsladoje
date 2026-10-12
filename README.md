@@ -28,7 +28,7 @@ Local code search for AI coding agents.
 
 `Hybrid search` `ColBERT rerank` `Custom ANN` `GPU kernels` `Code graph` `Live indexing`
 
-[📦 npm](https://www.npmjs.com/package/sweet-search) &nbsp;[![GitHub stars](https://img.shields.io/github/stars/mrsladoje/sweet-search?style=social)](https://github.com/mrsladoje/sweet-search/stargazers)
+<a href="https://github.com/mrsladoje/sweet-search/stargazers"><img align="right" src="https://img.shields.io/github/stars/mrsladoje/sweet-search?style=social" alt="GitHub stars" /></a>[📦 npm](https://www.npmjs.com/package/sweet-search)
 
 </td>
 </tr>
