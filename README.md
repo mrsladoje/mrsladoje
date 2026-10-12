@@ -6,8 +6,6 @@
 
 😎 Software Engineer from Novi Sad, Serbia | Building systems that matter
 
-`RAG` `ML` `Spring Boot`  `Spring Security`  `KV Database Internals`  `Media Transparency` `React with Tailwind`
-
 🌍 Fluent in English and Greek, semi-fluent in German, and native in South Slavic languages.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-sladojevic-378485174/)
