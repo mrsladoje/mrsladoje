@@ -26,7 +26,7 @@
 ### 🍬 [sweet-search](https://github.com/mrsladoje/sweet-search) <a href="https://github.com/mrsladoje/sweet-search/stargazers"><img align="right" src="https://img.shields.io/github/stars/mrsladoje/sweet-search?style=social" alt="GitHub stars" /></a>
 Local code search for AI coding agents.
 
-`5–33% cheaper agent runs` `SOTA code retrieval` `100% local` `Hybrid search + ColBERT rerank` `Code graph`
+`5–33% cheaper agent runs` `SOTA code retrieval` <br> `100% local` `Hybrid search` `Code graph`
 
 </td>
 </tr>
